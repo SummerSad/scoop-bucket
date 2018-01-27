@@ -17,10 +17,6 @@
         ]
     },
     "homepage": "https://neovim.io/",
-	"bin": [
-        "Neovim\\bin\\nvim.exe",
-        "Neovim\\bin\\nvim-qt.exe"
-    ],
     "env_add_path": "Neovim\\bin",
     "shortcuts": [
         [
