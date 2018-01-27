@@ -10,7 +10,7 @@
                         "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.1/MinGit-2.16.1-64-bit.zip",
                         "hash": "9a37a9dd89add49caee6967e7f6d54182b2f27de7bd4e63e3bd006394ca56e69"
                 }
-        }
+        },
         "extract_dir": "mingit",
         "bin": "cmd\\git.exe"
 }
