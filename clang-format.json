@@ -1,0 +1,7 @@
+{
+        "homepage": "https://marketplace.visualstudio.com/items?itemName=LLVMExtensions.ClangFormat",
+        "version": "7.0.0.323406",
+        "url": "https://llvmextensions.gallerycdn.vsassets.io/extensions/llvmextensions/clangformat/7.0.0.323406/1516892819045/ClangFormat-r323406.vsix",
+        "extract_dir": "clang-format",
+        "bin": "clang-format.exe"
+}
