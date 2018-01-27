@@ -1,4 +1,5 @@
 scoop-bucket
 ============
 
-My own bucket for scoop
+My own bucket for `scoop
+<>`_
