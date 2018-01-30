@@ -1,0 +1,18 @@
+{
+        "homepage": "http://www.unikey.org/index.php",
+        "version": "4.2.4",
+        "architecture":{
+                "64bit": {
+                        "url": "http://sourceforge.net/projects/unikey/files/unikey-win/4.2%20RC4/unikey42RC4-140823-win64.zip/download",
+                        "hash": "ddd8fefcea798c630db87b8672a6e4018943184194fc4c1ab0834811bd652919"
+                },
+                "32bit": {
+                        "url": "http://sourceforge.net/projects/unikey/files/unikey-win/4.2%20RC4/unikey42RC4-140823-win32.zip/download",
+                        "hash": "3b77228469afc707b14acd4640589689770c228bd56ce474aa1f018a61bece7e"
+                }
+        },
+        "extract_dir": "UnikeyNT",
+        "shortcurs": [
+                "UniKeyNT.exe"
+        ]
+}
