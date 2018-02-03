@@ -1,15 +1,16 @@
 {
         "Homepage": "https://github.com/git-for-windows/git",
-        "version": "2.16.1",
+        "version": "2.16.1.2",
         "architecture": {
                 "64bit": {
-                        "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.1/MinGit-2.16.1-64-bit.zip",
-                        "hash": "14fde7abfa14f505605517b00c8b1bf09eec78e3653516f30dc43084d8df7ede"
+                        "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.2/MinGit-2.16.1.2-busybox-64-bit.zip",
+                        "hash": "58609edfd1ea0135c9247b89ad9fafd8270caa307a5f8d8fdccaf0456b8c8dd0"
                 },
                 "32bit": {
-                        "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.1/MinGit-2.16.1-64-bit.zip",
-                        "hash": "9a37a9dd89add49caee6967e7f6d54182b2f27de7bd4e63e3bd006394ca56e69"
+                        "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.2/MinGit-2.16.1.2-busybox-32-bit.zip",
+                        "hash": "c7721df06fee403b340ff8083c2334dd450b929341645364c6807fdca6c6e74b"
                 }
         },
-        "bin": "cmd\\git.exe"
+        "bin": "cmd\\git.exe",
+        "notes": "This is mingit based on busybox"
 }
