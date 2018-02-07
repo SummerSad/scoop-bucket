@@ -1,12 +1,15 @@
 {
         "Homepage": "https://github.com/git-for-windows/git",
         "version": "2.16.1.1",
-        "architecture": {
-                "64bit": {
+        "architecture":
+        {
+                "64bit":
+                {
                         "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.1/MinGit-2.16.1-busybox-64-bit.zip",
                         "hash": "21ac64a8876f96af8375b4ab655e669be99c341c1fe5c762485d720886f31b48"
                 },
-                "32bit": {
+                "32bit":
+                {
                         "url": "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.1/MinGit-2.16.1-busybox-32-bit.zip",
                         "hash": "158eac07dbd90555afcfb73709a33feffa070db5ae3ff6602bf400d26f326d37"
                 }

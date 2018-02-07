@@ -1,12 +1,15 @@
 {
         "homepage": "https://bellard.org/tcc/",
         "version": "0.9.27",
-        "architecture": {
-                "64bit": {
+        "architecture":
+        {
+                "64bit":
+                {
                         "url": "http://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win64-bin.zip",
                         "hash": "34a721949a2583fdff725312da092fa0f5f1f284b702e6f811c6954714faabb2"
                 },
-                "32bit": {
+                "32bit":
+                {
                         "url": "http://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win32-bin.zip",
                         "hash": "02e2bfe8c272a549b15e4bfa4507bd7e05304692af1761db6c1e8e88af675651"
                 }
