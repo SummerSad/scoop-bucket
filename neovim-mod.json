@@ -19,7 +19,8 @@
     "shortcuts": [
         [
             "Neovim\\bin\\nvim-qt.exe",
-            "Neovim"
+            "Neovim-mod",
+            "-qwindowgeometry 800x600"
         ]
     ],
     "notes": "Need to install Visual Studio 2015 C++ redistributable"
