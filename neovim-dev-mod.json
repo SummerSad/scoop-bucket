@@ -8,11 +8,6 @@
         {
             "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
             "hash": "2975c875915323077f555ccac38eb21cfb7c3c4c6d2f1966cbbffb2d87c33121"
-        },
-        "32bit":
-        {
-            "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win32.zip",
-            "hash": "24553754a778371c6b6b851a1eedb92efd298d8df412770f6743c06c722b2cc0"
         }
     },
     "env_add_path": "Neovim\\bin",
