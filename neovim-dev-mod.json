@@ -12,7 +12,7 @@
         "32bit":
         {
             "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win32.zip",
-            "hash": "23edc8f298089fade09e053e9515abd3312d23a1"
+            "hash": "24553754a778371c6b6b851a1eedb92efd298d8df412770f6743c06c722b2cc0"
         }
     },
     "env_add_path": "Neovim\\bin",
