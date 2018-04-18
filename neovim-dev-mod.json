@@ -7,7 +7,7 @@
         "64bit":
         {
             "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
-            "hash": "865d0117ed4e335717814affbfd59f3c19e2e9b5"
+            "hash": "2975c875915323077f555ccac38eb21cfb7c3c4c6d2f1966cbbffb2d87c33121"
         },
         "32bit":
         {
