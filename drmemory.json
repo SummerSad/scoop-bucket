@@ -1,8 +1,0 @@
-{
-        "homepage": "https://github.com/DynamoRIO/drmemory",
-        "version": "1.11.0",
-        "url": "https://github.com/DynamoRIO/drmemory/releases/download/release_1.11.0/DrMemory-Windows-1.11.0-2.zip",
-        "hash": "bab2ae2a59238de29b6b12e0cac9f1f9b97328f9de2ce5da76d397dbbb2b8872",
-        "env_add_path": "DrMemory-Windows-1.11.0-2\\bin",
-        "notes": "This path is 32bit, change bin to bin64 to use 64bit"
-}

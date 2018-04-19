@@ -11,12 +11,6 @@ My own bucket for `scoop
 Apps
 ====
 
-`neovim
-<https://github.com/neovim>`_
-
-`Dr. Memory: the memory debugger
-<https://github.com/DynamoRIO/drmemory>`_
-
 `BusyBox-based MinGit
 <https://github.com/git-for-windows/git>`_
 
