@@ -5,6 +5,7 @@
         {
                 "64bit":
                 {
+<<<<<<< HEAD
                         "url": "https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/MinGit-2.18.0-busybox-64-bit.zip",
                         "hash": "1a34608fbb82f607924d21ac2737c189a250fd9c6f4255a939e55c7fc3b10a0d"
                 },
@@ -17,3 +18,17 @@
         "bin": "cmd\\git.exe",
         "notes": "BusyBox-based MinGit"
 }
+=======
+                        "url": "https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/MinGit-2.17.1.2-busybox-64-bit.zip",
+                        "hash": "f3aa489a67a600aefa8f20ee55f8977319bd3da568afaaadcd1b2e2cf21c575c"
+                },
+                "32bit":
+                {
+                        "url": "https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/MinGit-2.17.1.2-busybox-32-bit.zip",
+                        "hash": "7c335e5ecd340a2980c9003bf8fefd73eb9553636c41ff1f9eae5dbb29bf6dde"
+                }
+        },
+        "bin": "cmd\\git.exe",
+        "notes": "mingit based on busybox"
+}
+>>>>>>> c8bb090f2c141fc6885c3b1c3174774519fb3b8f
