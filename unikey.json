@@ -6,12 +6,12 @@
 	{
 		"64bit":
 		{
-			"url": "https://downloads.sourceforge.net/project/unikey/unikey-win/4.3%20RC4/unikey43RC4-180714-win64.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Funikey%2Ffiles%2Funikey-win%2F4.3%2520RC4%2Funikey43RC4-180714-win64.zip%2Fdownload&ts=1531574120",
+			"url": "https://downloads.sourceforge.net/project/unikey/unikey-win/4.3%20RC4/unikey43RC4-180714-win64.zip",
 			"hash": "4a6a06ea7c3d9ca9603a54050f010a63be48ea90c7a5299f6d18ec1789c40c23"
 		},
 		"32bit":
 		{
-			"url": "https://downloads.sourceforge.net/project/unikey/unikey-win/4.3%20RC4/unikey43RC4-180714-win32.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Funikey%2Ffiles%2Funikey-win%2F4.3%2520RC4%2Funikey43RC4-180714-win32.zip%2Fdownload&ts=1531574195",
+			"url": "https://downloads.sourceforge.net/project/unikey/unikey-win/4.3%20RC4/unikey43RC4-180714-win32.zip",
 			"hash": "930d8792166ad216db22701f5b5f407076817784c5d8ba1e3ff5383f77efadb4"
 		}
 	},
